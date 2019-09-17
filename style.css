@@ -1,0 +1,16 @@
+#main-div{
+    margin-bottom: 80px;
+}
+
+.footer{
+    z-index: -1;
+}
+
+#cat{
+    width: 200px;
+}
+
+h3{
+    width: 200px;
+    margin-left:  15px;
+}
